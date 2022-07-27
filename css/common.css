@@ -33,6 +33,63 @@ a{
 }
 
 
+/* btn */
+.btn.btn--reverse{
+  background-color: #333;
+  color: #fff;
+}
+
+.btn.btn--reverse:hover{
+  background-color: transparent;
+  color: #333;;
+}
+
+.btn.btn--brown{
+  color: #592b18;
+  border-color: #592b18;
+}
+
+.btn.btn--brown:hover{
+  color: #fff;
+  background-color: #592b18;
+}
+
+.btn.btn--gold{
+  color: #D9AA8A;
+  border-color:  #D9AA8A;
+}
+
+.btn.btn--gold:hover{
+  color: #fff;
+  background-color:  #D9AA8A;;
+}
+
+.btn.btn--white{
+  color: #fff;
+  background-color:  #333;
+}
+
+.btn.btn--white:hover{
+  color: #333;
+  background-color:  #fff;
+}
+
+
+.btn.btn--primary{
+  color: #fff;
+  background-color: #EA9926;
+  border: none;
+}
+
+.btn.btn--primary:hover{
+  background-color: #cc8823;
+}
+
+.btn.block {
+  width: 100%;
+}
+
+
 /* BACT TO POSITION */
 .back-to-position{
   opacity: 0;
@@ -86,7 +143,7 @@ header .inner {
   position: relative;
 }
 */
-s
+
 header .logo {
   height: 75px;
   position: absolute;
@@ -270,49 +327,6 @@ header .main-menu .item .item__contents .contents__texture p{
 img{
   display: block;
 }
-
-
-/* btn */
-.btn.btn--reverse{
-  background-color: #333;
-  color: #fff;
-}
-
-.btn.btn--reverse:hover{
-  background-color: transparent;
-  color: #333;;
-}
-
-.btn.btn--brown{
-  color: #592b18;
-  border-color: #592b18;
-}
-
-.btn.btn--brown:hover{
-  color: #fff;
-  background-color: #592b18;
-}
-
-.btn.btn--gold{
-  color: #D9AA8A;
-  border-color:  #D9AA8A;
-}
-
-.btn.btn--gold:hover{
-  color: #fff;
-  background-color:  #D9AA8A;;
-}
-
-.btn.btn--white{
-  color: #fff;
-  background-color:  #333;
-}
-
-.btn.btn--white:hover{
-  color: #333;
-  background-color:  #fff;
-}
-
 
 
 
